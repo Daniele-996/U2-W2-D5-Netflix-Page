@@ -1,0 +1,33 @@
+*,
+*::after,
+*::before {
+  border: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+.bg-dark {
+  background-color: #141414;
+}
+
+.text-white {
+  color: #818181 !important;
+}
+
+.text-white-1 {
+  color: #b1b1b1 !important;
+}
+
+.btn-text-white-1 {
+  color: #b1b1b1 !important;
+}
+
+h1 {
+  color: #bbbbbb;
+}
